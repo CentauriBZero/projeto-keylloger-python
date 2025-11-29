@@ -19,18 +19,12 @@ Todo o conteúdo é exclusivamente educacional.
   ```
   pip install pynput
   ```
-  <h2><li>Clone o repositório:</li></h2>
-  Baixe o projeto para sua máquina através do Git:
+  <h2><li>Baixe o repositório:</li></h2>
+  Baixe o projeto para sua máquina:
   <br><br>
 
   ```
-  git clone https://github.com/SEU-USUARIO/keylogger-simulado.git
-  ```
-  Depois entre na pasta:
-  <br>
-
-  ```
-  cd keylogger-simulado
+  keylogger_email.py
   ```
   <h2><li>Configuração da senha de app na conta Google</li></h2>
   Antes de executar o código, precisamos gerar uma senha do Aplicativo, que é uma senha especial gerada pelo próprio provedor de e-mail para permitir que programas externos — como scripts, softwares ou automações, enviem mensagens sem usar sua senha real da conta.
