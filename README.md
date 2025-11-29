@@ -46,6 +46,7 @@ Todo o conteúdo é exclusivamente educacional.
   ```
   https://myaccount.google.com/apppasswords
   ```
+  <img src="./images/senhaapp.JPG" width="600">
 
   <h2><li>Ajuste dos dados</li></h2>
   Para utilizar a função de envio automático por e-mail, é necessário configurar os dados de e-mail do arquivo.
@@ -71,7 +72,8 @@ Todo o conteúdo é exclusivamente educacional.
   ```
     py .\keylogger_email.py
   ```
-
+  ![Host](./images/e-mails.JPG)
+  
   <h2><li>Reflexão sobre Defesa e Prevenção</li></h2>
     Durante o estudo e implementação deste projeto, foi possível compreender como keyloggers exploram falhas humanas e técnicas para capturar informações sensíveis. 
     <br><br>
