@@ -17,7 +17,7 @@ Todo o conteúdo é exclusivamente educacional.
   <br><br>
   
   ```
-  pip install pynput
+  py -m pip install pynput
   ```
   <h2><li>Baixe o repositório:</li></h2>
   Baixe o projeto para sua máquina:
