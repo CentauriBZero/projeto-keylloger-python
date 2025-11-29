@@ -8,7 +8,8 @@ Todo o conteúdo é exclusivamente educacional.
 <ul>
   <li>Captura de teclas pressionadas pelo usuário</li>
   <li>Registro das teclas em logs/log.txt.</li>
-  <li>Envio de e-mail do que foi capturado</li>
+  <li>A cada 60 segundos, os dados coletados são preparados e enviados para o e-mail de destino configurado.</li>
+  <li>Após o envio, o registro local é limpo para receber novas entradas.</li>
 </ul>
 <hr>
 <ol>
